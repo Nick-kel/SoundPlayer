@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "name": "SoundPlayer",
+  "mainClass": "de.nickkel.addons.soundplayer.SoundPlayerAddon",
+  "description": "Play and test all Minecraft sounds",
+  "version": 1,
+  "author": "Nickkel",
+  "category": 1,
+  "icon": "https://i.imgur.com/7R82w3v.png"
+}
