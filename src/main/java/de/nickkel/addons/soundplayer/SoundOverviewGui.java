@@ -22,6 +22,8 @@ public class SoundOverviewGui extends GuiScreen {
     @Override
     public void initGui() {
         super.initGui();
+        this.soundButtons.clear();
+
         if (LabyMod.getInstance().isInGame()) {
             this.scrollbar.init();
             this.scrollbar.setPosition(this.width / 2 + 122, 44, this.width / 2 + 126,
